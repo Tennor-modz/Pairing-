@@ -11,7 +11,7 @@
   "author": "Toxic Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "baileys": "^6.7.17",    
+    "@whiskeysockets/baileys": "github:DaffaDeveloper/daf-bails",
     "maher-zubair-baileys": "latest",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
